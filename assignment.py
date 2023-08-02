@@ -1,16 +1,6 @@
-# Name: Toke Atijosan
-# D2L Username:oatijosa
-# Date: 08/01/2021
-
-# DO NOT CHANGE THE FILENAME: assignment.py
-# The autograder will look for assignment.py. It is also case-sensitive
-# So even changing the file name to Assignment.py will score you a zero
-
 ### Programming Assignment ###
 # Complete the calc_average() and determine_grade() functions
-# Compare with the expected result given in the assignment description
-# IMPORTANT: Before you submit, make sure your program produces the expected result 
-# as shown in the assignment description
+
 
 # Do NOT change the function header calc_average()
 def calc_average():
